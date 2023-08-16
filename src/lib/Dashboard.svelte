@@ -199,7 +199,6 @@
         right: -45px;
         height: 25px;
         width: 25px;
-        padding-bottom: 2px;
         aspect-ratio: 1;
         background: var(--primary-color);
         display: flex;
